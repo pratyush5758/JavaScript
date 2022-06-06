@@ -41,14 +41,14 @@
 // div - 10 print - B
 // div - Both print - C
 
-function div(number) {
-    if(number % 5 === 0){
-        console.log("A");
-    }else if(number % 10 === 0){
-        console.log("B");
-    }else{
-        console.log("C");
-    }
+// function div(number) {
+//     if(number % 5 === 0){
+//         console.log("A");
+//     }else if(number % 10 === 0){
+//         console.log("B");
+//     }else{
+//         console.log("C");
+//     }
     
-}
-console.log(div(20));
+// }
+// console.log(div(20));
